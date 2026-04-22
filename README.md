@@ -2,7 +2,7 @@
 
 ### Architecture
 
-<img src="https://github.com/akankshakusf/aws-autonomous-multiagent-incident-system-jira/blob/master/images/architecture_linkedin_square.png" width="100%" />
+<img src="https://github.com/akankshakusf/aws-autonomous-multiagent-incident-system-jira/blob/master/images/architecture_animated.gif" width="100%" />
 
 ## 🚀 Overview
 
